@@ -62,4 +62,4 @@ UPDATE EMPLOYEE_PAYROLL SET DEPARTMENT = 'MARKETING' WHERE ID =2;
 insert into employee_payroll (name, start, basic_pay, department) values
 ('Terissa', '2019-11-13', '200000', 'Sales');
 select * from employee_payroll
-
+drop table EMPLOYEE_PAYROLL
