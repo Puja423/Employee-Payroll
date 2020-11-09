@@ -1,0 +1,4 @@
+C:\Users\Puja\Desktop\Employee_Management\Employee_Management\Employee_Management\bin\Debug\netcoreapp3.1\Employee_Management.exe
+C:\Users\Puja\Desktop\Employee_Management\Employee_Management\Employee_Management\obj\Debug\netcoreapp3.1\Employee_Management.csprojAssemblyReference.cache
+C:\Users\Puja\Desktop\Employee_Management\Employee_Management\Employee_Management\obj\Debug\netcoreapp3.1\Employee_Management.AssemblyInfoInputs.cache
+C:\Users\Puja\Desktop\Employee_Management\Employee_Management\Employee_Management\obj\Debug\netcoreapp3.1\Employee_Management.AssemblyInfo.cs

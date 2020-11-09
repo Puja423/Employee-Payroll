@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Employee_Management
+namespace EmployeePayrollService
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Emplyee Payroll problem!");
+            EmployeeRepo repo = new EmployeeRepo();
+            repo.GetAllEmployee();
         }
     }
 }
