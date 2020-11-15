@@ -39,7 +39,7 @@ namespace EmployeePayrollService
                         Console.WriteLine("Enter Basic Pay");
                         employee.BasicPay = Convert.ToDecimal(Console.ReadLine());
                         Console.WriteLine("Enter Deductions");
-                        employee.Deductions = Convert.ToDecimal(Console.ReadLine());
+                        employee.Deductions = (double)Convert.ToDecimal(Console.ReadLine());
                         Console.WriteLine("Enter Start date");
                         employee.StartDate = Convert.ToDateTime(Console.ReadLine());
                         if (repo.AddEmployee(employee))
