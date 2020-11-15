@@ -77,6 +77,7 @@ namespace EmployeePayrollService
                         break;
                     case 6:
                         repo.SumOfSalaryGenderWise();
+
                         break;
                     case 7:
                         repo.AverageOfSalaryGenderWise();
